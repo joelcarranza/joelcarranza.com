@@ -1,0 +1,1 @@
+I live in New Orleans where I create software for a living.  I geek out on  bicycles, cartography, coffee, and fancy beer.  I take _lots_ of photos.

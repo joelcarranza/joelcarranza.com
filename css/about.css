@@ -1,0 +1,104 @@
+/* ==========================================================================
+   Structure
+   ========================================================================== */
+.row {
+  max-width: 700px;
+  margin: auto;
+  padding-left: 1em;
+  padding-right: 1em; }
+
+header {
+  padding-bottom: 25px;
+  padding-top: 10px; }
+
+.headshot img {
+  margin: 0px auto;
+  width: 200px;
+  display: block; }
+
+ul, li {
+  marign-left: 0;
+  padding-left: 0; }
+
+.center {
+  margin: auto;
+  display: block; }
+
+.footer-copy {
+  padding-top: 25px;
+  padding-bottom: 25px; }
+
+.contact-badges {
+  padding-top: 15px;
+  float: right;
+  clear: right; }
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-size: 19pt;
+  line-height: 1.4;
+  font-weight: lighter; }
+
+b, em {
+  font-weight: normal; }
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.75em; }
+
+h1 {
+  font-size: 24pt;
+  font-weight: normal !important;
+  font-style: italic; }
+
+.intro {
+  font-size: 21pt; }
+
+h2 {
+  margin-bottom: 0.25em;
+  margin-top: 1.5em;
+  font-size: 28pt;
+  font-weight: normal;
+  font-style: italic; }
+
+.salutation {
+  text-align: center;
+  font-size: 12pt; }
+
+footer {
+  font-size: 16pt;
+  font-weight: normal; }
+
+/* ==========================================================================
+   Color
+   ========================================================================== */
+body {
+  background-color: #faf9f7;
+  color: #4d4a4c; }
+
+footer {
+  background-color: #4D4A4C;
+  color: #faf9f7; }
+
+h2 {
+  color: #fc4f08; }
+  h2 em {
+    text-decoration: line-through;
+    font-style: normal; }
+
+a {
+  color: #ff9230; }
+
+/* ==========================================================================
+   Content
+   ========================================================================== */
+h2 {
+  background-image: url("../img/qa.png");
+  background-repeat: no-repeat;
+  padding-left: 50px;
+  position: relative;
+  background-position: 0% 72%;
+  left: -50px; }
