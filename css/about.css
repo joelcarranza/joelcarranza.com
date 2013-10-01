@@ -6,6 +6,10 @@
   margin: auto;
   padding-left: 1em;
   padding-right: 1em; }
+  @media only screen and (max-width: 800px) {
+    .row {
+      padding-left: 0.75em;
+      padding-right: 0.75em; } }
 
 header {
   padding-bottom: 25px;
@@ -16,9 +20,12 @@ header {
   width: 200px;
   display: block; }
 
-ul, li {
-  marign-left: 0;
+ul {
+  margin-left: 0;
   padding-left: 0; }
+  @media only screen and (max-width: 800px) {
+    ul {
+      padding-left: 0.5em; } }
 
 .center {
   margin: auto;
@@ -27,11 +34,17 @@ ul, li {
 .footer-copy {
   padding-top: 25px;
   padding-bottom: 25px; }
+  @media only screen and (max-width: 500px) {
+    .footer-copy {
+      padding-top: 5px; } }
 
 .contact-badges {
   padding-top: 15px;
   float: right;
   clear: right; }
+  @media only screen and (max-width: 500px) {
+    .contact-badges {
+      float: none; } }
 
 /* ==========================================================================
    Typography
@@ -63,6 +76,9 @@ h2 {
   font-size: 28pt;
   font-weight: normal;
   font-style: italic; }
+  @media only screen and (max-width: 800px) {
+    h2 {
+      font-size: 18pt; } }
 
 .salutation {
   text-align: center;
@@ -88,9 +104,6 @@ footer {
 
 h2 {
   color: #fc4f08; }
-  h2 em {
-    text-decoration: line-through;
-    font-style: normal; }
 
 a {
   color: #ff9230; }
@@ -105,3 +118,10 @@ h2 {
   position: relative;
   background-position: 0% 72%;
   left: -50px; }
+  @media only screen and (max-width: 800px) {
+    h2 {
+      left: 0px;
+      background-position: 50% 0%;
+      padding-left: 0px;
+      padding-top: 50px;
+      text-align: center; } }
