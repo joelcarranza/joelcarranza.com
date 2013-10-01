@@ -8,7 +8,7 @@ title: Hello.
 I am not a [Venezuelan baseball][notme] player. You may know me from institutions of  learning such as the [Mississippi School of Math][msms] and Science or the [California Institute of Technology][caltech]. I was born on the gulf coast of Mississippi and lived for many years in Los Angeles. In 2012, My girlfriend and I returned to the south to live in New Orleans, where we live with Mina, Simba, Sadie, Katie, and Desmond. 
 
 [notme]:https://www.perfectgame.org/players/playerprofile.aspx?ID=16085
-[msms]:http://www.msms.k12.ms.us/
+[msms]:http://www.themsms.org/
 [caltech]:http://www.caltech.edu/
 
 ## can you fix my <span class="strike">printer</span> WIFI ?
