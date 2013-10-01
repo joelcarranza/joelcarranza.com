@@ -1,1 +1,1 @@
-I live in New Orleans where I create software for a living.  I geek out on  bicycles, cartography, coffee, and fancy beer.  I take _lots_ of photos.
+New Orleans is my home and software development is my craft. I drink coffee in the mornings, beer at nights, and generally try to spend each day making things that are better than the day before.  I have a love of photography and an unusual enthusiasm for infrastructure technology and BBC costume dramas. 
