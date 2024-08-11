@@ -1,0 +1,11 @@
+baseURL = 'https://www.joelcarranza.com/'
+languageCode = 'en-us'
+title = 'Joel Carranza'
+theme = 'joelcarranza'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
