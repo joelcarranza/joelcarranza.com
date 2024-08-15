@@ -35,29 +35,7 @@ section#content {
   text-align: center;
 }
 
-p.image-process-default img {
-  width: 100%;
-}
-
-p.image-process-ios-icon {
-  margin: auto;
-  width: 256px;
-}
-
-p.image-process-ios-icon img {
-  width: 256px;
-}
-
-p.image-process-ios-screenshot {
-  display: inline;
-}
-
-p.image-process-ios-screenshot img {
-  margin: 0.3em;
-  width: 225px;
-}
-
-figcaption {
+figure {
   text-align: center;
 }
 
