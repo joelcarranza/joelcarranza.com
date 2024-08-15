@@ -1,7 +1,6 @@
 baseURL = 'https://www.joelcarranza.com/'
 languageCode = 'en-us'
 title = 'Joel Carranza'
-theme = 'joelcarranza'
 
 [markup]
   [markup.goldmark]
