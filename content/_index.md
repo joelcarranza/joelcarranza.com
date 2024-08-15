@@ -14,8 +14,8 @@ Currently Lead Developer at [Gatekeeper Systems](https://www.gatekeeper.com/) wh
 
 ## Retired Projects
 
-- [Pinswift](/pinswift/) - An iOS client for the pinboard bookmarking service
-- [NOLA Transit](/nolatransit/) - An iOS app displaying real-time and schedule information for the New Orleans public transit system
+- [Pinswift](/projects/pinswift/) - An iOS client for the pinboard bookmarking service
+- [NOLA Transit](/projects/nolatransit/) - An iOS app displaying real-time and schedule information for the New Orleans public transit system
 - [bikebus](https://github.com/joelcarranza/bikebus) - A mobile web application and SMS interface demonstrating "multi-modal" trip planning for the city of New Orleans, allowing a user to get directions through the city while "on the go" using any combination of walking, bicycling, and public transit.
 
 [email]: mailto:punk.koala1945@fastmail.com
