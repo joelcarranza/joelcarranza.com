@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>
-  {{ partial "head.html" . }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
   <header>
-    {{ partial "header.html" . }}
+    <nav>
+      <ul>
+          <li><a href="/">Joel Carranza</a></li>
+      </ul>
+    </nav>
   </header>
   <section id="content">
     {{ block "main" . }}{{ end }}
   </section>
   <footer>
-    {{ partial "footer.html" . }}
+    <div class="links">
+      <h2>Contact</h2>
+      <ul>
+          <li><a href="mailto:punk.koala1945@fastmail.com">Email</a></li>
+          <li><a href="https://github.com/joelcarranza">Github</a></li>
+      </ul>
+  </div>
   </footer>
 </body>
 </html>
