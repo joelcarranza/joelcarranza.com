@@ -1,6 +1,6 @@
-+++
-title = 'NOLA transit'
-+++
+---
+title: 'NOLA transit'
+---
 
 {{<figure caption="App Icon">}}
     {{< img src="iTunesArtwork.png" size="256x">}}

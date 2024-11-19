@@ -1,6 +1,6 @@
-+++
-title = 'Pinswift'
-+++
+---
+title: 'Pinswift'
+---
 
 {{<figure caption="App Icon">}}
     {{< img src="iTunesArtwork.png" size="256x">}}

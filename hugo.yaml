@@ -1,0 +1,12 @@
+baseURL: 'https://www.joelcarranza.com/'
+languageCode: 'en-us'
+title: 'Joel Carranza'
+
+# Update your site configuration to enable Markdown attributes for block-level elements.
+# https://gohugo.io/content-management/markdown-attributes/#block-elements
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true

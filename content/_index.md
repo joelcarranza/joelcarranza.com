@@ -1,7 +1,7 @@
-+++
-title = 'About'
-date = 2024-08-10T17:39:19-05:00
-+++
+---
+title: 'About'
+date: 2024-08-10T17:39:19-05:00
+---
 
 Professional software developer who has a passion for analog tools in the service of writing, thinking, and reading.
 
