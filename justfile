@@ -1,5 +1,6 @@
 # run http server with autorefresh
 preview:
+    git pull
     hugo server --buildDrafts
 
 # generate output to /public directory
