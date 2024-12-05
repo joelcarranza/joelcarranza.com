@@ -10,6 +10,7 @@ Currently Lead Developer at [Gatekeeper Systems](https://www.gatekeeper.com/) wh
 ## Projects
 
 - [tdcreate](https://github.com/joelcarranza/tdcreate) - A better template format for Todoist projects
+- [streamdeck-time-tracker](https://github.com/joelcarranza/streamdeck-time-tracker) - Yet another StreamDeck and Toggl integration
 - [carranza-collective.com](https://www.carranza-collective.com/) - I maintain a site for my parents who are artists
 
 ## Retired Projects
